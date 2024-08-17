@@ -1,0 +1,34 @@
+/* This is for the bored of which color */
+.CheckersSquare {
+  float: left;
+  width: 60px;
+  height: 60px;
+  background-color: red;
+}
+
+.checkersAlt {
+  background-color: black;
+}
+
+.checkerPiece {
+  width: 55px;
+  height: 55px;
+  margin: 2.5px;
+  border-radius: 50%;
+  box-shadow: 4px 4px 4px gray;
+}
+/* this is checker piece */
+.checkerPiece-w {
+  background-color: white;
+}
+
+.checkerPiece-b {
+  background-color: black;
+}
+
+.clear-float {
+  clear: both;
+}
+#divCheckersBoard{
+  width: 480px;
+}
